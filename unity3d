@@ -1,0 +1,8 @@
+<div id="toolbar">Enter .unity3d file URL: <input type="text" id="url" value="http://download.unity3d.com/gallery/live-demos/players/island.unity3d" size="50"> <input type="submit" value=" Run " onclick="embed()"></div>
+<div id="unityPlayer">
+    <div class="missing">
+        <a href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now!">
+            <img alt="Unity Web Player. Install now!" src="http://webplayer.unity3d.com/installation/getunity.png" width="193" height="63" />
+        </a>
+    </div>
+</div>
